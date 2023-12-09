@@ -13,5 +13,5 @@ After each run, you msu need to either reboot or exit the the server using one (
 ```
 sudo reboot
 
-sudo exit
+exit
 ```
